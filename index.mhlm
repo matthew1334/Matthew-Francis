@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<tittle>My Website</tittle>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		</head>
+	
+	<body>
+		<div id="container">
+			<div id ="header">
+				<h1>My Website</h1>
+		</div>
+		<div id="content">
+			<div id="nav">
+			<h3>Navigatiom</h3>
+			<ul>
+				<li><a class="selected" href="">Home</li>
+				<li><a href="">About</li>
+				<li><a href="">Contact</li>
+			</ul>
+		</div>
+		
+		<div id="main">
+			<h1>HomePage</h1>
+		<p>Bursting with imagery, motion, interaction and distraction though it is, today’s World Wide Web is still primarily a conduit for textual information. In HTML5, the focus on writing and authorship is more pronounced than ever. It’s evident in the very way that new elements such as article and aside are named. HTML5 asks us to treat the HTML document more as… well, a documentIn this article, I’d like to reacquaint you with the humble workhorse of communication that is the paragraph. Paragraphs are everywhere. In fact, at the high risk of stating the obvious, you are reading one now. Despite their ubiquity, we frequently neglect their presentation. This is a mistake. Here, we’ll refer to some time-honored typesetting conventions, with an emphasis on readability, and offer guidance on adapting them effectively for devices and screens. We’ll see that the ability to embed fonts with @font-face is not by itself a solution to all of our typographic challenges.</p>
+		<p>oday, too many websites are still inaccessible. In our new bookBursting with imagery, motion, interaction and distraction though it is, today’s World Wide Web is still primarily a conduit for textual information. In HTML5, the focus on writing and authorship is more pronounced than ever. It’s evident in the very way that new elements such as article and aside are named. HTML5 asks us to treat the HTML document more as… well, a document Inclusive Design Patterns, we explore how to craft flexible front-end design patterns and make future-proof and accessible interfaces without extra effort. Hardcover, 312 pages. Get the book now.</p>
+		<p>In 1992, Tim Berners-Lee circulated a documentBursting with imagery, motion, interaction and distraction though it is, today’s World Wide Web is still primarily a conduit for textual information. In HTML5, the focus on writing and authorship is more pronounced than ever. It’s evident in the very way that new elements such as article and aside are named. HTML5 asks us to treat the HTML document more as… well, a document titled “HTML Tags,” which outlined just 20 tags, many of which are now obsolete or have taken other forms. The first surviving tag to be defined in the document, after the crucial anchor tag, is the paragraph tag. It wasn’t until 1993 that a discussion emerged on the proposed image tag.</p>
+		
+		</div>
+		<div id="footer">
+			Coppyright &copy 2017 Matthew argote.
+	</body>
+
+</html>
